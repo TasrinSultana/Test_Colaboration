@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int main()
+void multiplication()
 {
 	int a,b;
 	cin>>a>>b;
 	cout<<"multiplication "<<a<<"*"<<b<<" =  "<<a*b<<endl;
-	return 0;
+	
 }

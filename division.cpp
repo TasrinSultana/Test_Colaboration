@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main()
+void division()
 {
 	int a, b;
 	float div;
@@ -11,5 +11,4 @@ int main()
 	div = a/b ;
 	cout << "ans = "<< div << endl;
 
-return 0;
 }
